@@ -52,4 +52,5 @@ While this project was synthesized using Cadence Excellium and tested with Googl
 Use the provided testbenches to verify the functionality of the design in your preferred simulation environment.
 
 **Contributing**
+
 We welcome contributions from the community! Please feel free to fork the repository, make enhancements, and submit a pull request. For any major changes, please open an issue first to discuss what you would like to change.
